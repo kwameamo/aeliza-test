@@ -1,0 +1,61 @@
+.elementor-kit-2727{--e-global-color-primary:#959595;--e-global-color-secondary:#000000;--e-global-color-text:#FFFFFF;--e-global-color-accent:#FFFFFF;--e-global-typography-primary-font-family:"Source Code Pro";--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"Source Code Pro";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Source Code Pro";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-weight:500;font-family:"Source Code Pro", Sans-serif;font-size:10px;font-weight:400;}.elementor-kit-2727 a{font-family:"Source Sans Pro", Sans-serif;}.elementor-kit-2727 h1{font-family:"Source Code Pro", Sans-serif;}.elementor-kit-2727 h2{font-family:"Source Code Pro", Sans-serif;}.elementor-kit-2727 h3{font-family:"Source Code Pro", Sans-serif;}.elementor-kit-2727 h4{font-family:"Source Code Pro", Sans-serif;}.elementor-kit-2727 h5{font-family:"Source Code Pro", Sans-serif;}.elementor-kit-2727 h6{font-family:"Source Code Pro", Sans-serif;}.elementor-kit-2727 img{border-radius:0px 0px 0px 0px;}.elementor-kit-2727 input:not([type="button"]):not([type="submit"]),.elementor-kit-2727 textarea,.elementor-kit-2727 .elementor-field-textual{border-radius:0px 0px 0px 0px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-2727 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */p#wc-stripe-payment-request-button-separator {
+    margin: 1em !important;
+}
+
+div#zoid-paypal-buttons-uid_9f7aaa5a37_mty6ndk6mzc {
+    display: none !important;
+}
+
+.woocommerce div.product form.cart, .woocommerce div.product p.cart {
+    margin-bottom: 10px;
+}
+
+.woocommerce div.product form.cart, .woocommerce div.product p.cart {
+    margin-bottom: 10px;
+    order: 4 !important;
+}
+
+.sticky-summary {
+    display: flex;
+    flex-direction: column;
+}
+
+div#wc-stripe-payment-request-wrapper {
+    padding-top: 0 !important;
+}
+
+p.stock.in-stock{display: none;}
+
+.woocommerce div.product .product_title {
+    font-family: 'Source Code Pro' !important;
+    font-size: 11px;
+    font-weight: normal !important;
+    color: #000000;
+    text-transform: none;
+    text-transform: uppercase;
+}
+
+h1.product_title.entry-title {
+    text-align: left !important;
+}
+
+.sticky-summary p {
+    display: flex;
+    flex-direction: column;
+    text-align: left !important;
+    align-items: flex-start;
+}
+
+.woocommerce ul.products li.product a {
+    color: var(--e-global-color-text) !important;
+    text-transform: uppercase;
+}
+
+
+h3.woocommerce-loop-product__title {
+    text-align: left;
+}
+
+span.price {
+    text-align: left;
+}/* End custom CSS */
